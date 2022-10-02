@@ -1,0 +1,155 @@
+[
+   {
+      "id": 1,
+      "projectName": "Pran-Rfl Website",
+      "projectDesc": "This project aims to build an full-stack website where user can buy product, admin can manage the products.",
+      "tags": [
+         "React",
+         "CSS",
+         "Bootstrap",
+         "Firebase",
+         ""
+      ],
+      "code": "https://github.com/hasan75/pran-rfl-website-client",
+      "demo": "https://pran-rfl-react.web.app/",
+      "img1": "https://i.ibb.co/JFHvzsy/pranrfl1.png",
+      "img2": "https://i.ibb.co/Xjyz0cs/Pran-RFL-Group-4.png",
+      "img3": "https://i.ibb.co/jLX6wMT/Pran-RFL-Group-7.png",
+      "img4": "https://i.ibb.co/nQStGZC/Pran-RFL-Group-2.png",
+      "bigdes": [
+         "This is a semi e-commerce website",
+         "Users can login, register to the website",
+         "User can explore the Products, see details of the products",
+         "USer can order products, edit his/her order, see order status",
+         "User can give ratings to the webapp",
+         "There is  dedicated dashboard for users and admin",
+         "Admin can see the users, make another user as admin, see the orders",
+         "Admin can update orders, delete orders, change the order status."
+      ]
+   },
+   {
+      "id": 2,
+      "projectName": "Hit The Trail Agency",
+      "projectDesc": "This project is a tour management  system that allows users to surf around.",
+      "tags": [
+         "React",
+         "Bootstrap CSS",
+         "React-Router",
+         "Firebase"
+      ],
+      "code": "https://github.com/hasan75/hit-the-trail-website-client",
+      "demo": "https://hit-the-trail-react.web.app/",
+      "img1": "https://i.postimg.cc/j25HJ2XC/Hit-The-Trail.png",
+      "img2": "https://i.postimg.cc/zDtSYwzh/Hit-The-Trail-1.png",
+      "img3": "https://i.postimg.cc/TPVqzZ12/Hit-The-Trail-4.png",
+      "img4": "https://i.postimg.cc/PqsQFttF/Hit-The-Trail-6.png",
+      "bigdes": [
+         "This is a travel agency website",
+         "Users can login, register to the website",
+         "User can explore the travel packages, see details of the packages",
+         "USer can book a tour package, edit his/her booking, see booking status",
+         "User can see travel blogs",
+         "There is  dedicated dashboard for users and admin",
+         "Admin can see the users, see the bookings",
+         "Admin can update booking, delete booking, change the booking status."
+      ]
+   },
+   {
+      "id": 3,
+      "projectName": "Shafa Care Plus",
+      "projectDesc": "Shafa Care Plus HealthCare systems provide users medical and other information, can take appointments",
+      "tags": [
+         "React",
+         "CSS",
+         "Material Ui",
+         "Firebase"
+      ],
+      "code": "https://github.com/hasan75/shafa-care-plus-healthcare-web",
+      "demo": "https://shafa-care-plus-firebase.web.app/",
+      "img1": "https://i.postimg.cc/NMr2Hn2q/Shafa-Care-Plus-1.png",
+      "img2": "https://i.postimg.cc/NMr2Hn2q/Shafa-Care-Plus-1.png",
+      "img3": "https://i.postimg.cc/NMr2Hn2q/Shafa-Care-Plus-1.png",
+      "img4": "https://i.postimg.cc/NMr2Hn2q/Shafa-Care-Plus-1.png",
+      "bigdes": [
+         "This is a medical theme website",
+         "Users can login, register to the website",
+         "User can explore the medical packages, see details of the packages",
+         "USer can book a medical appointment, edit his/her appointment, see appointment status",
+         "User can see doctors list for different departments",
+         "There is google signup and signIn options for user",
+         "User can view Details of his/her appointment and can edit his/her appointment",
+         "Localstorage is used in this project to save the appointments of the user in local device"
+      ]
+   },
+   {
+      "id": 4,
+      "projectName": "Honda CBR FrontEnd",
+      "projectDesc": "This project involves the development of an frontend website build with CSS",
+      "tags": [
+         "HTML",
+         "CSS",
+         "Bootstrap",
+         "JS"
+      ],
+      "code": "https://github.com/hasan75/honda_cbr_bootstrap_website",
+      "demo": "honda-cbr-hasan.netlify.app/",
+      "img1": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "img2": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "img3": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "img4": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "bigdes": [
+         "This is a Honda CBR website",
+         "The website is made with pure HTML",
+         "Bootstrap is used to style the website",
+         "Bootstrap Card, Container, Button and other components are being used",
+         "Careousal is used for practice purpose",
+         "Bootstrap Form is used in this website",
+         "Footer is used with three column responsive.",
+         "The full website is made responsive by using Bootstrap responsive classes."
+      ]
+   },
+   {
+      "id": 5,
+      "projectName": "E-Commerce App",
+      "projectDesc": "A Simple E-commerce application",
+      "tags": [
+         "React Native",
+         "Firebase"
+      ],
+      "code": "https://github.com/hasan75/honda_cbr_bootstrap_website",
+      "demo": "honda-cbr-hasan.netlify.app/",
+      "img1": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "img2": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "img3": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "img4": "https://i.postimg.cc/CLJ5z0rn/Honda-Web-1.png",
+      "bigdes": [
+         "This is a E-commerce website",
+         "The website is made with pure HTML",
+         "Bootstrap is used to style the website",
+         "Bootstrap Card, Container, Button and other components are being used",
+         "Careousal is used for practice purpose",
+         "Bootstrap Form is used in this website",
+         "Footer is used with three column responsive.",
+         "The full website is made responsive by using Bootstrap responsive classes."
+      ]
+   },
+   {
+      "id": 6,
+      "projectName": "Kajkam Initiative Website",
+      "projectDesc": "Official website of Kajkam Initiative",
+      "tags": [
+         "React"
+      ],
+      "code": "https://github.com/hasan75",
+      "demo": "https://kajkaminitiative.com/",
+      "img1": "https://i.ibb.co/ryf1m2T/kajkam1.png",
+      "img2": "https://i.ibb.co/ryf1m2T/kajkam1.png",
+      "img3": "https://i.ibb.co/ryf1m2T/kajkam1.png",
+      "img4": "https://i.ibb.co/ryf1m2T/kajkam1.png",
+      "bigdes": [
+         "This is the official website of Kajkam Initiative",
+         "The website is made with React Js",
+         "Bootstrap is used to style the website"
+      ]
+   }
+]
