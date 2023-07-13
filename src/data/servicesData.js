@@ -22,16 +22,16 @@ export const servicesData = [
         title: 'Web Customization',
         icon: <AiOutlineMail />
     },
-    // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
-    // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
+    {
+        id: 4,
+        title: 'Internet Research',
+        icon: <FaInternetExplorer />
+    },
+    {
+        id: 5,
+        title: 'Tutoring',
+        icon: <FaChalkboardTeacher />
+    },
 
     // {
     //     id: 6,
@@ -53,11 +53,11 @@ export const servicesData = [
         title: 'Video Editing',
         icon: <FaVideo />
     },
-    {
-        id: 10,
-        title: 'Data Entry', 
-        icon: <BsClipboardData />
-    },
+    // {
+    //     id: 10,
+    //     title: 'Data Entry', 
+    //     icon: <BsClipboardData />
+    // },
     // {
     //     id: 11,
     //     title: 'Ebook Writing',

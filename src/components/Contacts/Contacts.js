@@ -212,7 +212,7 @@ function Contacts() {
                                     type='submit'
                                     className={classes.submitBtn}
                                 >
-                                    <p>{!success ? 'Send' : 'Sent'}</p>
+                                    <div>{!success ? 'Send' : 'Sent'}</div>
                                     <div className='submit-icon'>
                                         <AiOutlineSend
                                             className='send-icon'

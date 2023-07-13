@@ -5,12 +5,15 @@
     'CSS',
     'Javascript',
     'Node JS',
+    'Vue',
     'React',
     'Mongodb',
     'Bootstrap',
     'Tailwind',
     'MaterialUI',
     'Typescript',
+    'Git',
+    'ViteJs'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
